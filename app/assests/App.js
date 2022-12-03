@@ -13,10 +13,10 @@ const MyApp = () => {
       
 
       <View style={styles.loginbutton}>
-        <Text style={styles.buttonText}>Resgister</Text>
+        <Text style={styles.buttonText}>Register</Text>
       </View>
       <View style={styles.registerbutton}>
-        <Text style={styles.buttonText}>About us</Text>
+        <Text style={styles.buttonText}>Contact</Text>
       </View>
     </ImageBackground>
   );
