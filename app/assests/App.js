@@ -13,7 +13,7 @@ const MyApp = () => {
       
 
       <View style={styles.loginbutton}>
-        <Text style={styles.buttonText}>Login</Text>
+        <Text style={styles.buttonText}>Resgister</Text>
       </View>
       <View style={styles.registerbutton}>
         <Text style={styles.buttonText}>About us</Text>
